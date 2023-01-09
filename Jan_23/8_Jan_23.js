@@ -3,7 +3,7 @@
 // (https://leetcode.com/problems/delete-columns-to-make-sorted/description/)
 
 // ==== Submission 1 ====
-// Date: 1/3/23
+// Date: 1/8/23
 // Runtime: 137ms (faster than 40.19%)
 // Memory: 45.8mb (less than 80.37%)
 
